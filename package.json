@@ -12,6 +12,6 @@
   "dependencies": {
     "coffee-script": "^1.12.5",
     "express": "^4.15.2",
-    "socket.io": "^1.7.3"
+    "socket.io": "^2.4.0"
   }
 }
